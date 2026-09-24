@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "a datapack to add Compactable Wind Chargees to the game",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": 121
+  }
+}
